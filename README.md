@@ -1,4 +1,4 @@
-### Hi there! I'm Muhammad Ahsan Ali 👋
+<h1 align="center">Hi 👋, I'm Muhammad Ahsan Ali</h1>
 
 🚀 **Freelancer | Full-Stack Developer | Graphic Designer**  
 💻 **MERN Stack Enthusiast | UI/UX Designer**  
