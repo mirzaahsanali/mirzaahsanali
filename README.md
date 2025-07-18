@@ -43,7 +43,7 @@
 📧 **Email:** mirzaahsan2372003@gmail.com  
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com?user=mirzaahsanali&theme=onedark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mirzaahsanali&theme=onedark-duo&hide_border=true)](https://git.io/streak-stats)
 ---
 
 ⭐ **Looking for collaborations? Feel free to connect!** 🚀
