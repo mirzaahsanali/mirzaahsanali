@@ -35,7 +35,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirzaahsanali/)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/pdGVWm)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015f51e2eabe707d9a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=dribbble&logoColor=white)](https://www.dribbble.com/pixelfusionbypeter) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://www.dribbble.com/pixelfusionbypeter) 
 
 🔗 **LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/mirzaahsanali)  
 🔗 **Fiverr Profile:** [Fiverr](https://www.fiverr.com/s/pdGVWml)  
