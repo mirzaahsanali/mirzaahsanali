@@ -39,8 +39,8 @@
 
 🔗 **LinkedIn Profile:** [LinkedIn](https://www.linkedin.com/in/mirzaahsanali)  
 🔗 **Fiverr Profile:** [Fiverr](https://www.fiverr.com/s/pdGVWml)  
-🔗 **Upwork Profile:** [Upwork](https://www.upwork.com/freelancers/~015f51e2eabe707d9a)
-🔗 **Dribbble Profile:** [Upwork](https://www.dribbble.com/pixelfusionbypeter)  
+🔗 **Upwork Profile:** [Upwork](https://www.upwork.com/freelancers/~015f51e2eabe707d9a)  
+🔗 **Dribbble Profile:** [Dribbble](https://www.dribbble.com/pixelfusionbypeter)  
 📧 **Email:** mirzaahsan2372003@gmail.com  
 
 ---
