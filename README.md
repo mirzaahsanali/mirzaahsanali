@@ -123,9 +123,8 @@ An AI-powered chatbot capable of answering questions from custom knowledge bases
 
 # 📈 GitHub Stats
 
---- [![GitHub Streak](https://streak-stats.demolab.com?user=mirzaahsanali&theme=onedark-duo&hide_border=false)](https://git.io/streak-stats) ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=mirzaahsanali&theme=onedark-duo&hide_border=false)](https://git.io/streak-stats) ---
 
----
 
 # 🌐 Connect With Me
 
