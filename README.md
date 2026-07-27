@@ -123,15 +123,7 @@ An AI-powered chatbot capable of answering questions from custom knowledge bases
 
 # 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mirzaahsanali&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mirzaahsanali&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirzaahsanali&layout=compact&theme=tokyonight"/>
-
-</p>
+--- [![GitHub Streak](https://streak-stats.demolab.com?user=mirzaahsanali&theme=onedark-duo&hide_border=false)](https://git.io/streak-stats) ---
 
 ---
 
